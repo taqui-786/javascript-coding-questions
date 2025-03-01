@@ -1,0 +1,14 @@
+{
+  "name": "logicbuilding",
+  "version": "1.0.0",
+  "description": "This is for learning and logic building",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Md Taqui imam",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
