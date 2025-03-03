@@ -6,7 +6,8 @@ As a **Front-End Developer**, JavaScript is the **core skill** that powers every
 
 ## 🎯 What you will learn?
 
-1️⃣ Question 1 - implement curry()
+1️⃣ Question 1 - implement curry() -  (easy)
+2️⃣ Question 2 - implement Array.prototype.flat() -  (medium)
 
 ## 🚀 How to Use This Repository
 

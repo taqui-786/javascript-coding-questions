@@ -1,4 +1,4 @@
-// 1. Currying
+// 1. Currying 
 // Currying is a useful technique used in JavaScript applications.
 // There are two ways to do make a currying function one is with bind method and one is with closure
 
