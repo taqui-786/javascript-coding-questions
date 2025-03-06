@@ -10,6 +10,7 @@ As a **Front-End Developer**, JavaScript is the **core skill** that powers every
 2️⃣ Question 2 - implement Array.prototype.flat() -  (medium)
 3️⃣ Question 3 - implement basic debounce() -  (easy)
 4️⃣ Question 4 - can you shuffle() an array? -  (easy)
+5️⃣ Question 5 - what is Composition? create a pipe() -  (easy)
 
 ## 🚀 How to Use This Repository
 
