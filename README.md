@@ -6,13 +6,13 @@ As a **Front-End Developer**, JavaScript is the **core skill** that powers every
 
 ## 🎯 What you will learn?
 
-1️⃣ Question 1 - implement curry() -  (easy)
-2️⃣ Question 2 - implement Array.prototype.flat() -  (medium)
-3️⃣ Question 3 - implement basic debounce() -  (easy)
-4️⃣ Question 4 - can you shuffle() an array? -  (easy)
-5️⃣ Question 5 - what is Composition? create a pipe() -  (easy)
-6️⃣ Question 6 - Improve a function -  (easy)
-7️⃣ Question 7 - Reorder array with new indexes -  (easy)
+- 1️⃣ Question 1 - implement curry() -  (easy)
+- 2️⃣ Question 2 - implement Array.prototype.flat() -  (medium)
+- 3️⃣ Question 3 - implement basic debounce() -  (easy)
+- 4️⃣ Question 4 - can you shuffle() an array? -  (easy)
+- 5️⃣ Question 5 - what is Composition? create a pipe() -  (easy)
+- 6️⃣ Question 6 - Improve a function -  (easy)
+- 7️⃣ Question 7 - Reorder array with new indexes -  (easy)
 
 ## 🚀 How to Use This Repository
 
