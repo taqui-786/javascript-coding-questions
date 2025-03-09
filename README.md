@@ -13,6 +13,7 @@ As a **Front-End Developer**, JavaScript is the **core skill** that powers every
 - 5️⃣ Question 5 - what is Composition? create a pipe() -  (easy)
 - 6️⃣ Question 6 - Improve a function -  (easy)
 - 7️⃣ Question 7 - Reorder array with new indexes -  (easy)
+- 8️⃣ Question 8 - implement clearAllTimeout() -  (easy)
 
 ## 🚀 How to Use This Repository
 
