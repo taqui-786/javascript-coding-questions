@@ -4,7 +4,7 @@ Welcome to the **JavaScript Coding Questions** repository! 🧠✨
 
 As a **Front-End Developer**, JavaScript is the **core skill** that powers everything from interactive web applications to dynamic UI components. This repo is designed to challenge and improve your JavaScript knowledge with a collection of **real-world coding questions**. 💡
 
-## 🎯 What you will learn?
+## 🎯 What you have to solve?
 
 - 1️⃣ Question 1 - implement curry() -  (easy)
 - 2️⃣ Question 2 - implement Array.prototype.flat() -  (medium)
