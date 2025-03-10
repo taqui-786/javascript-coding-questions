@@ -14,6 +14,7 @@ As a **Front-End Developer**, JavaScript is the **core skill** that powers every
 - 6️⃣ Question 6 - Improve a function -  (easy)
 - 7️⃣ Question 7 - Reorder array with new indexes -  (easy)
 - 8️⃣ Question 8 - implement clearAllTimeout() -  (easy)
+- 9️⃣ Question 9 - implement a simple DOM wrapper to support method chaining like jQuery -  (easy)
 
 ## 🚀 How to Use This Repository
 
